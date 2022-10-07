@@ -1,9 +1,8 @@
 # thesis
 
-This repository contains my bachelor thesis for the BSc Econometrics at the University of Amsterdam. In this thesis I developed a simulation pricing model, where two firms use a Q-learning algorithm to set their price. Previous literature has shown that when firms use machine learning algorithms, there is a potential for collusion in the market. Until now, this only has been investigated by letting firms in a simulation have symmetric pricing frequencies. This thesis diverges from that approach by letting firms have an asymmetry in their price adjusting frequency. 
+This repository contains the code and report of the thesis of the BSc Econometrics at the University of Amsterdam. In this thesis, a simulation pricing model was developed where two firms use a Q-learning algorithm to set their price. Previous literature has shown that when firms use machine learning algorithms, there is a potential for collusion in the market. Until now, this only has been investigated by letting firms in a simulation have symmetric pricing frequencies. This thesis diverges from that approach by letting firms have an asymmetry in their price-adjusting frequency.
 
 Abstract
-
 Firms increasingly use algorithms to price services and goods in online and offline markets.
 Recent studies show that using pricing technologies can result in collusion, which is
 detrimental to consumers. This thesis experimentally examines whether collusion occurs in
